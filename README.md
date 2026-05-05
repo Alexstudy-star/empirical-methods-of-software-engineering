@@ -2,6 +2,7 @@
 Repository made for performing laboratory works for the "Empirical Methods of Software Engineering"
 
 ## Labs
-Lab_4 = {"Topic": "Основи регресійного аналізу", 
-         "Goal": "Засвоїти основи регресійного аналізу засобами Python", 
-         "language": "Python"}
+
+### Lab 4 
+**"Topic:"** Основи регресійного аналізу 
+**Goal** Засвоїти основи регресійного аналізу засобами Python
