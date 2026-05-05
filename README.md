@@ -5,4 +5,4 @@ Repository made for performing laboratory works for the "Empirical Methods of So
 
 ### Lab 4 
 * **Topic:** Основи регресійного аналізу 
-* **Goal** Засвоїти основи регресійного аналізу засобами Python
+* **Goal:** Засвоїти основи регресійного аналізу засобами Python
