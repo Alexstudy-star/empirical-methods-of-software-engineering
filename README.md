@@ -1,2 +1,7 @@
 # empirical-methods-of-software-engineering
-emse lab works
+Repository made for performing laboratory works for the "Empirical Methods of Software Engineering"
+
+## Labs
+Lab_4 = {"Topic": "Основи регресійного аналізу", 
+         "Goal": "Засвоїти основи регресійного аналізу засобами Python", 
+         "language": "Python"}
